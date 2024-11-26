@@ -1,89 +1,75 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: Resume
+title: Henry Gao's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Henry Gao
+Economics and Data Science student at BYUI
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/henry-gao229/">My linkedin profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at BYUI as full time student, actively looking for internships related to economics, finance or data science
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Statistics, Data Science, Economics, Finance, Investment, AI Algorithms
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+AI algorithm, automatic trading algorithm, quantitative trading.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2023`
+__Communication University of Zhejiang__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- GPA:3.7/4.0.
+- Majoring in Software Engineering
 
-- Sizar
+`2023 - 2023`
+__University of California Santa Barbara__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- GPA:3.67/4.0.
+- Majoring in Software Engineering
 
-- Fellow
+`2023 - now`
+__Brigham Young University - Idaho__
 
+- GPA:4.0/4.0.
+- Majoring in Economics and minoring in Data Science
 
+## Technical Skills
 
-## Awards
+__SQL__:Compiled a simulated stock trading website, deploy mysql database storage 
+stock data and can complete various functions such as storage, calling, querying, 
+updating data.
 
-`2012`
-President, *Royal Society*, London, UK
+__Python__: Feed a large number of credit data samples to the deep neural network for 
+training, and then use the trained model to test the test set, and calculate whether the 
+customer should be given a loan based on the customer's credit data.
 
-Associate, *French Academy of Science*, Paris, France
+__Excel__: Can skillfully operate excel tables to calculate the consumer index and 
+inflation rate of local residents, and generate charts based on the data.
 
+__MS Suite__: As a college student who has many years of experience, familiar with MS 
+Suite and has used PPT in American middle school to perform cultural display.
 
+## Job Experiences
 
-## Publications
+`April 2024 - Present`
+__Microeconomic Teaching Assistant__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Assist professors weekly in producing teaching PPTs and provide suggestions and technical support.
+- Meet with students weekly in office hours to answer questions about grades and microeconomic concepts. Improve 80 students' learning performance by giving easy-to-understand explanations and providing study suggestions
+- Solve 80 students' problems related to exams, assignments and quizzes at any time according to the professor's requirements
+- Help professors analyze and identify student problems and change course structures and settings to improve teaching quality
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2024 -->
