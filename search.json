@@ -226,44 +226,37 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Henry Gao’s Resume",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Economics and Data Science student at BYUI\n\nMy linkedin profile\n\n\n\nStudying at BYUI as full time student, actively looking for internships related to economics, finance or data science\n\n\nStatistics, Data Science, Economics, Finance, Investment, AI Algorithms\n\n\n\nAI algorithm, automatic trading algorithm, quantitative trading.\n\n\n\n\n2020-2023 Communication University of Zhejiang\n\nGPA:3.7/4.0.\nMajoring in Software Engineering\n\n2023 - 2023 University of California Santa Barbara\n\nGPA:3.67/4.0.\nMajoring in Software Engineering\n\n2023 - now Brigham Young University - Idaho\n\nGPA:4.0/4.0.\nMajoring in Economics and minoring in Data Science\n\n\n\n\nSQL:Compiled a simulated stock trading website, deploy mysql database storage stock data and can complete various functions such as storage, calling, querying, updating data.\nPython: Feed a large number of credit data samples to the deep neural network for training, and then use the trained model to test the test set, and calculate whether the customer should be given a loan based on the customer’s credit data.\nExcel: Can skillfully operate excel tables to calculate the consumer index and inflation rate of local residents, and generate charts based on the data.\nMS Suite: As a college student who has many years of experience, familiar with MS Suite and has used PPT in American middle school to perform cultural display.\n\n\n\nApril 2024 - Present Microeconomic Teaching Assistant\n\nAssist professors weekly in producing teaching PPTs and provide suggestions and technical support.\nMeet with students weekly in office hours to answer questions about grades and microeconomic concepts. Improve 80 students’ learning performance by giving easy-to-understand explanations and providing study suggestions\nSolve 80 students’ problems related to exams, assignments and quizzes at any time according to the professor’s requirements\nHelp professors analyze and identify student problems and change course structures and settings to improve teaching quality"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Henry Gao’s Resume",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Studying at BYUI as full time student, actively looking for internships related to economics, finance or data science\n\n\nStatistics, Data Science, Economics, Finance, Investment, AI Algorithms\n\n\n\nAI algorithm, automatic trading algorithm, quantitative trading."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Henry Gao’s Resume",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2020-2023 Communication University of Zhejiang\n\nGPA:3.7/4.0.\nMajoring in Software Engineering\n\n2023 - 2023 University of California Santa Barbara\n\nGPA:3.67/4.0.\nMajoring in Software Engineering\n\n2023 - now Brigham Young University - Idaho\n\nGPA:4.0/4.0.\nMajoring in Economics and minoring in Data Science"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Henry Gao’s Resume",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "SQL:Compiled a simulated stock trading website, deploy mysql database storage stock data and can complete various functions such as storage, calling, querying, updating data.\nPython: Feed a large number of credit data samples to the deep neural network for training, and then use the trained model to test the test set, and calculate whether the customer should be given a loan based on the customer’s credit data.\nExcel: Can skillfully operate excel tables to calculate the consumer index and inflation rate of local residents, and generate charts based on the data.\nMS Suite: As a college student who has many years of experience, familiar with MS Suite and has used PPT in American middle school to perform cultural display."
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#job-experiences",
+    "href": "resume.html#job-experiences",
+    "title": "Henry Gao’s Resume",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "April 2024 - Present Microeconomic Teaching Assistant\n\nAssist professors weekly in producing teaching PPTs and provide suggestions and technical support.\nMeet with students weekly in office hours to answer questions about grades and microeconomic concepts. Improve 80 students’ learning performance by giving easy-to-understand explanations and providing study suggestions\nSolve 80 students’ problems related to exams, assignments and quizzes at any time according to the professor’s requirements\nHelp professors analyze and identify student problems and change course structures and settings to improve teaching quality"
   },
   {
     "objectID": "exploration.html",
